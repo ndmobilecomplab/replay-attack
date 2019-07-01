@@ -1,8 +1,6 @@
 # Replay Attack Research Project
 
-Mobile Computing Lab
-
-Computer Science and Engineering, University of Notre Dame, IN 46556, USA
+This repository provides the dataset and codes of the audio replay attack research project in Mobile Computing Lab, Computer Science and Engineering, University of Notre Dame.
 
 **ReMASC Dataset**:  
 ReMASC: Realistic Replay Attack Corpus for Voice Controlled Systems
